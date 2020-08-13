@@ -20,7 +20,7 @@
 - CSS:
 
   - ~~Продвинутые селекторы (опять же без фанатизма, но знать полезно)~~
-  - ~Градиенты, трансформации,~ анимации, переходы и прочие приколюхи
+  - ~~Градиенты, трансформации, анимации, переходы и прочие приколюхи~~
   - ~~Флексы~~, гриды
   - Респонсив ("адаптивность")
   - Любой CSS фреймворк (bootstrap / foundation)
@@ -49,10 +49,6 @@
 
 - https://www.freecodecamp.org/ - бесплатный ресурс с туториалами по (HTML, CSS, JS, React, Angular, Bootstrap, Git, Linux) с подробными разъяснениями + бесплатные курсы с сертификатами. Подходит ко всему
 
-- ~~Интерактивные курсы хтмл академии https://htmlacademy.ru/program читаем про флексы, препроцессоры и т.п. Материалы платных интерактивов можно спросить в тредике~~
-- ~~http://nnmclub.to/forum/viewtopic.php?t=1220071 - 1 часть продвинутого курса от академии 2019. Там же можно найти 2 часть (заходим через VPN)~~
-- http://htmlbook.ru/
-- https://webref.ru/
 - Верстка по БЭМ на примерах: http://habrahabr.ru/post/203440/
 - http://ru.bem.info/ - документация БЭМ от Яндекса (ахтунг, фанатизм зашкаливает, не стоит увлекаться)
 - http://getbootstrap.com/ - самый известный цсс-фреймворк.
@@ -60,23 +56,10 @@
 - http://habrahabr.ru/hub/webdev/ - тематический хаб, иногда проскальзывают полезные публикации.
 - Документация препроцессоров: http://sass-lang.com/ http://lesscss.org/ http://stylus-lang.com/
 
-**Дополнительные ресурсы, которые могут быть полезными на данном этапе:**
 
-- http://tympanus.net/codrops/ - еженедельная подборка новостей
-- http://www.smashingmagazine.com/ - многое отсюда так или иначе переведено на русский, ресурс полезный для развития
-- http://css-tricks.com/ - много готовых шаблонов для решения часто встречающихся задач
-- http://codepen.io/ - ресурс с кучей интересных примеров кода
-- http://www.html5rocks.com/en/ - туториалы от гугла
-- http://frontender.info - неплохой ресурс, но редко обновляется
-- http://www.sitepoint.com/html-css/, https://medium.com/tag/css, http://css-live.ru/ выборка статей по теме.
--~~ http://nicothin.pro/page/console-windows~~
-- ~~http://nicothin.pro/page/kak-komfortno-rabotat-s-github-v-konsoli-windows~~
-- ~~Материалы интенсивов академии: https://github.com/tsergeytovarov/htmlacademy-basic-additional-material~~
-- Материалы от teamtreehouse, любезно слитые аноном (англ): https://mega.nz/#!PgRiXJLK!Ske0xNBPaC9Rm_3mV9c5Zoz6rD5Yna-V7pI-yzJOB_A
 
 #### Что верстать
 
-- Макеты для верстки, тоже от академии. Все из их рассылки и не проверялось уже пару лет. https://mega.nz/#!CtYGSCbB!3Y6fDxxL_N_LstGFPGjHrhXbIoNqk4BzmNjjEmk2jPc
 - Вполне годные макеты можно найти здесь: http://freebiesbug.com/psd-freebies/
 - Moose - http://yadi.sk/d/g74XxFDUPyrob - корпоративный сайт
 - Hotel - http://yadi.sk/d/5VEeZriDPyroK - туристический сайт
