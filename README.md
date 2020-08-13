@@ -49,8 +49,8 @@
 
 - https://www.freecodecamp.org/ - бесплатный ресурс с туториалами по (HTML, CSS, JS, React, Angular, Bootstrap, Git, Linux) с подробными разъяснениями + бесплатные курсы с сертификатами. Подходит ко всему
 
-- Интерактивные курсы хтмл академии https://htmlacademy.ru/program читаем про флексы, препроцессоры и т.п. Материалы платных интерактивов можно спросить в тредике
-- http://nnmclub.to/forum/viewtopic.php?t=1220071 - 1 часть продвинутого курса от академии 2019. Там же можно найти 2 часть (заходим через VPN)
+- ~~Интерактивные курсы хтмл академии https://htmlacademy.ru/program читаем про флексы, препроцессоры и т.п. Материалы платных интерактивов можно спросить в тредике~~
+- ~~http://nnmclub.to/forum/viewtopic.php?t=1220071 - 1 часть продвинутого курса от академии 2019. Там же можно найти 2 часть (заходим через VPN)~~
 - http://htmlbook.ru/
 - https://webref.ru/
 - Верстка по БЭМ на примерах: http://habrahabr.ru/post/203440/
@@ -69,9 +69,9 @@
 - http://www.html5rocks.com/en/ - туториалы от гугла
 - http://frontender.info - неплохой ресурс, но редко обновляется
 - http://www.sitepoint.com/html-css/, https://medium.com/tag/css, http://css-live.ru/ выборка статей по теме.
-- http://nicothin.pro/page/console-windows
-- http://nicothin.pro/page/kak-komfortno-rabotat-s-github-v-konsoli-windows
-- Материалы интенсивов академии: https://github.com/tsergeytovarov/htmlacademy-basic-additional-material
+-~~ http://nicothin.pro/page/console-windows~~
+- ~~http://nicothin.pro/page/kak-komfortno-rabotat-s-github-v-konsoli-windows~~
+- ~~Материалы интенсивов академии: https://github.com/tsergeytovarov/htmlacademy-basic-additional-material~~
 - Материалы от teamtreehouse, любезно слитые аноном (англ): https://mega.nz/#!PgRiXJLK!Ske0xNBPaC9Rm_3mV9c5Zoz6rD5Yna-V7pI-yzJOB_A
 
 #### Что верстать
